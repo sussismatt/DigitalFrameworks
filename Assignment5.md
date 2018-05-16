@@ -1,6 +1,6 @@
 
 
-![Age of English National Soccer Team, 2018(https://github.com/sussismatt/DigitalFrameworks/blob/master/chart.png)
+![Age of English National Soccer Team, 2018](https://github.com/sussismatt/DigitalFrameworks/blob/master/chart.png)
 
 Today, England announced the 23 players who would be representing their country in the 2018 World Cup next month. These players will likely face high amounts of pressure coming into the competition given their country's recent perforances. In 2014, England was eliminated during the World Cup group stages, and during the 2016 Euros, they were humiliated by major underdog Iceland--a country with a population of just 330,000 people compared to England's 53 million (160x larger than Iceland). As such, expectations are high for English coming into 2018. 
 
