@@ -4,7 +4,7 @@ As times change, so do traditions and social norms. This led me to wonder: Do Am
 
 I tracked the number of men and women wearing white clothing at Don Tito’s, a popular rooftop bar in Arlington, Virginia in order to determine whether the residents of Arlington dressed in a manner which represented a centuries-old fashion faux pas. 
 
-Methodology
+**Methodology**
 
 The rule traditionally holds that summer clothing is to be worn between Memorial Day in May, and Labor Day in September. As such, I recorded the number of men and women wearing white vs. colored clothing every day for the week leading up to Memorial Day Weekend, the weekend itself, and several days after. 
 
@@ -18,7 +18,7 @@ It should also be noted that the Don Tito’s patrons are not necessarily repres
 
 
 
-Results
+**Results**
 
 ![Don Tito's Patrons](https://github.com/sussismatt/DigitalFrameworks/blob/master/Datafinal.png)
 
